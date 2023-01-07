@@ -1,0 +1,29 @@
+.p4_fl2{
+    position: absolute;
+    top: 1500px;
+    width: 200px;
+    height: 400px;
+    right: 0;
+}
+
+.p4_leaf1{
+    position: absolute;
+    top: 2500px;
+    width: 200px;
+    height: 500px;
+}
+
+.p4_fl3{
+    position: absolute;
+    top: 5560px;
+    width: 300px;
+    height: 500px;
+}
+
+.p4_fl5{
+    position: absolute;
+    right: 0;
+    top: 3700px;
+    width: 300px;
+    height: 300px;
+}

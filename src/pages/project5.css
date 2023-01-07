@@ -1,0 +1,23 @@
+.p5_img1{
+    width: 700px;
+    height: 500px;
+    padding-bottom: 30px;
+}
+
+.p5_img2{
+    width: 600px;
+    height: 400px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 26%;
+    padding-right: 20px;
+    display: flex;
+}
+
+.p5_fl2{
+    position: absolute;
+    top: 1300px;
+    width: 200px;
+    height: 400px;
+    right: 0;
+}
